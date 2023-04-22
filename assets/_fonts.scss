@@ -1,0 +1,25 @@
+/* ThePriceOfPowerRegular */
+@font-face {
+    font-family: 'wdxphuthepriceofpowerregulaRg';
+    src: url('wdxphuthepriceofpowerregular-webfont.woff2') format('woff2'),
+         url('wdxphuthepriceofpowerregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /*body {
+    font-family: 'WDXPHU+ThePriceOfPowerRegular', normal;
+  }*/
+/*.symbolic {
+    font-family: 'WDXPHU+ThePriceOfPowerRegular', normal;
+}*/
+/* Overwrite this since I will not be using code blocks, and I want an easy
+way to use symbols*/
+
+code {
+    /*padding:0;
+    background:red;
+    border-radius:0;
+    font-size:11;
+    */font-family: 'WDXPHU+ThePriceOfPowerRegular', normal;
+}
