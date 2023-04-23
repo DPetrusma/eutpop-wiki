@@ -1,30 +1,29 @@
-baseURL = "http://example.org/"
+baseURL = "https://eutpop-wiki.dylanpetrusma.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Europa Universalis: The Price of Power Rules Wiki (Unofficial)"
 theme = "hugo-book"
 
-#[params]
-#    BookMenuBundle = '/menu'
+# Book configuration
+enableGitInfo = true
+BookSearch = "true"
 
-#[markup]
-#  [markup.goldmark]
-#    [markup.goldmark.parser]
-#      [markup.goldmark.parser.attribute]
-#        block = true
-#        title = true
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = "auto"
 
-[markup]
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = false
-    guessSyntax = false
-    hl_Lines = ''
-    hl_inline = false
-    lineAnchors = ''
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    noHl = false
-    style = 'monokai'
-    tabWidth = 4
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = "https://github.com/DPetrusma/eutpop-wiki"
+
+  # Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
+  # type.
+  # Required if 'BookRepo' param is set.
+  # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
+  # Github uses 'commit', Bitbucket uses 'commits'
+  BookCommitPath = "commit"
+
+    # (Optional, default January 2, 2006) Configure the date format used on the pages
+  # - In git information
+  # - In blog posts
+  BookDateFormat = 'Jan 2, 2006'

@@ -1,21 +1,85 @@
 ---
-title: "1 Introduction"
+title: "2.0 Game Overview"
 ---
 
-# 1. Introduction
+# 2.0 Game Overview
 
-*Europa Universalis: The Price of Power* is a board game that carries on the great legacy of the *Europa Universalis* video game series by Paradox Interactive. Those of you familiar with any of the video games that have come out during the series' more than 20-year-long history will likely instantly recognize several of the concepts in this board game. That said, knowledge of the video games is not required to play or enjoy this game.
+*Europa Universalis: The Price of Power* is a board game of empire building, conquest, diplomacy, and exploration in the early modern era. Each player will lead one of Europe's great nations to its glory or demise, depending on their ability to make timely choices and their skill in managing the resources available to them. 
 
-The starting point of the first Age of *Europa Universalis: The Price of Power* is the year 1444, in the aftermath of the Battle of Varna, where the Ottomans won a decisive victory against the combined Christian crusader forces. Europe is about to leave the Middle Ages behind and enter the Early Modern Era. The world is about to undergo changes like it never has before. No longer will civilizations in different parts of the globe exist in separate spheres with limited or no contact with the outside world. The lives of people across the whole planet are about to be irreversibly tangled together in a complex global web of power politics, imperialist expansion, colonization, trade, and cultural exchange, as well as wars and epidemics with disastrous consequences.
+During the game, players will use Monarch Power (`d`) and Ducats (`D`) to perform Actions, such as building up military forces, fighting battles, forging diplomatic relations, and developing aspects of their societies' internal machinery. Managing diplomatic relations with the other players is also an important aspect of the game.
 
-At the same time, science, political philosophy, and technology are starting to make progress at a rate never before seen in the history of mankind. This will impact warfare, forms of government, and religious institutions, as well as the daily lives of ordinary people, in ways that no one could have foreseen as it all began to happen. 
+This booklet covers the multiplayer rules. Solo rules are treated in a separate booklet.
 
-While some states will flourish in this environment, and even grow into positions of global dominance, other civilizations will suffer and disappear almost completely. 
+Set your game up by following the instructions in chapter 3 and your chosen scenario. We recommend that you focus on learning the rules in chapters 4–8 initially. The other sections of the rules will be referenced as they are needed.For your first game, we advise you to skip all rules marked as “Advanced Rules”.
 
-A lot of what the colonial and imperialist powers of that era did in their struggle for glory and riches is of course highly problematic when viewed through modern eyes. Knowledge of the many key events and developments of that time period is nonetheless crucial to understanding how we have come to be where we are in the world of today.
- 
-The game views the world through the eyes of the European powers of that day and age, not because we endorse what they did, but because it is a way to help us understand some of the choices they made. Perhaps we can then see more clearly how or why parts of history unfolded in the way that they did, while also giving players the freedom to explore somewhat realistic "what if" scenarios in the setting of this time period.
+## 2.1 Winning the Game
 
-This is a lot of ground for a board game to cover, and we have no pretensions of getting anywhere near a simulation of it all. Still, this game allows the players to immerse themselves in this highly interesting time period, and guide their chosen realms through a great chunk of history. Faced with challenges based on real historical events of the time, they will often need to make tough choices and negotiate with their opponents in order for their realms to thrive and grow.
+The winner will be the player who finishes the game with the most Prestige (`0`). There are many potential paths to victory and you will score Prestige in different ways (see p. 42), depending on how you focus your efforts.
 
-We hope that this game will inspire people to dig deeper into this subject matter.
+### Scoring Prestige during the game
+
+Players will score Prestige during the game for completing Missions and Milestones, researching Ideas, winning Wars, etc. This will all be recorded on the Prestige Track.
+
+### Final Scoring
+
+Final Scoring is initiated when the final round has been completed, or when certain scenario-specific conditions have been met.
+
+At this stage all players will score Prestige for their Towns and Vassals, Diplomatic relations, controlling the Papal Curia, Imperial Authority (`E`), and current Stability value, among other things (see p. 11).
+
+## 2.2 General Notes
+
+### Token Limits
+
+Generally, if you run out of a certain type of token, you have to remove a token from somewhere else to be able to place a new one. You may choose where to take this token from, but this may only be done if there are no tokens of that type left in the Supply.
+
+Exceptions to this are detailed below:
+***Tokens that may not be moved***
+- Towns and Vassal tokens
+- Alliance and Royal Marriage tokens
+- Crusade/Excommunicated token
+- Mercenary Units
+- Religion tokens used for State Religion
+- Black Units in use as Allied Units
+- Ill Health tokens on Characters
+- "Unlimited" tokens
+
+***Cubes (Monarch Power, Influence etc.)***
+
+Each player has 30 cubes available to use for Monarch Power, Influence, Colonists, Cardinals, charging up uses on Display Cards, and covering the income slots of Provinces Occupied by Enemies. When short on cubes, players may freely take one of their cubes from anywhere other than the Roma Cardinal, Changed Nat. Focus slot, and cubes used to cover income slots on their Player Mats.
+
+***NPR Units***
+
+NPRs always defend and invade at their normal strength, even if there are not enough NPR Units to represent them. 
+
+***"Unlimited" tokens***
+
+Some tokens are considered unlimited. If they should run out, find another way of indicating their meaning. These include: Ducat coins, War/Truce tokens, Occupied tokens, +1`m` tokens, and Tag chits.
+
+
+***Rounding up***
+
+When halving numbers, always round up unless specifically stated otherwise.
+
+***Text formatting***
+
+Game terms are written with Capitalized First Letters. Actions and Action Cards are always written in ***Bold Italics***. Area names are written in SMALL CAPS. Realm names and adjectives referencing Realms are always written like this: ›France and ›French, ›Austria and ›Austrian, etc. Ideas in the game are always in *italics*, enclosed by quotation marks, e.g., *"Tolerance"*.
+
+|Iconography & Abbreviations			|										|								|
+|---------------------------------------|---------------------------------------|-------------------------------|
+|`D` Ducats								|`0` Prestige (also 1, 2, 3, etc.)		|`` Administrative Action Card	|
+|`d` Monarch Power (cube)				|`s` Stability                          |`›` Diplomatic Action Card		|
+|`a` Administrative Power (cube)        |`m` Manpower                           |`ç` Military Action Card       |
+|`b` Diplomatic Power (cube)            |`=` Trade Power                        |`£` Reaction                   |
+|`c` Military Power (cube)              |`N` Trade Node                         |`€` Battle Action              |
+|`t` Town                               |`E` Imperial Authority                 |`™` Display Card               |
+|`v` Vassal token                       |`/` Not HRE                            |`∞` Covert Action              |
+|`A` Alliance token                     |`H` Ill Health token                   |                               |
+|`K` Active Ally token (A back)         |`,` Interest token                     |**CB** Casus Belli             |
+|`M` Royal Marriage token               |`æ` DNPR token                         |**DoW** Declaration of War     |
+|`L` Disputed Succession token (M back)	|`^` Revolutionary token                |**CtA** Call to Arms           |
+|`I` Influence (cube)					|`Q` Protestant/Counter-Reformed token	|**MC** Military Capacity       |
+|`G` Claim token                        |`§` Battleground Area                  |**NC** Naval Capacity          |
+|`F` Core token                         |`?` Rebel Unit                         |**PR** Player Realm            |
+|`<` Colonist (cube)                    |`R` Rebel Town                         |**NPR** Non-Player Realm       |
+|`C` Cardinal (cube)                    |`u` Unrest                             |**DNPR** Dynamic NPR           |
+|`z` Cube                               |`B` Bot Power (cube)                   |**HRE** Holy Roman Empire      |

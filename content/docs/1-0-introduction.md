@@ -1,8 +1,8 @@
 ---
-title: "1 Introduction"
+title: "1.0 Introduction"
 ---
 
-# 1. Introduction
+# 1.0 Introduction
 
 *Europa Universalis: The Price of Power* is a board game that carries on the great legacy of the *Europa Universalis* video game series by Paradox Interactive. Those of you familiar with any of the video games that have come out during the series' more than 20-year-long history will likely instantly recognize several of the concepts in this board game. That said, knowledge of the video games is not required to play or enjoy this game.
 
