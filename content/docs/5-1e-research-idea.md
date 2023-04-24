@@ -1,8 +1,8 @@
 ---
-title: "5.1 Research Idea"
+title: "Research Idea"
 ---
 
-# 5.1 Research Idea (X `d`)
+# Research Idea (X `d`)
 
 To claim bonuses from an Idea card, pay its [Monarch Power](/docs/monarch-power) cost and place one of your Tag chits on the Idea Card.
 

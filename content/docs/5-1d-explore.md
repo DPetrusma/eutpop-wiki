@@ -1,8 +1,8 @@
 ---
-title: "5.1 Explore"
+title: "Explore"
 ---
 
-# 5.1 Explore (1`b` + 1`c`)
+# Explore (1`b` + 1`c`)
 
 Requires *"Quest for the New World"* (*"QftNW"*) Idea to use Ships for Exploring.
 When taking this Action, follow the steps below in sequence:
