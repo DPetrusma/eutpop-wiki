@@ -10,6 +10,8 @@ headless: true
   - [4.1 Phase 1: Draw Cards]({{< relref "/docs/4-1-phase-1-draw-cards" >}})
   - [4.2 Phase 2: Actions]({{< relref "/docs/4-2-phase-2-actions" >}})
   - [4.3 Phase 3: Peace & Rebels]({{< relref "/docs/4-3-phase-3-peace-and-rebels" >}})
+  - [4.4 Phase 4: Income & Upkeep]({{< relref "/docs/4-4-phase-4-income-and-upkeep" >}})
+  - [4.5 Phase 5: Cleanup]({{< relref "/docs/4-5-phase-5-cleanup" >}})
 - [5. Basic Actions]({{< relref "/docs/5-0-basic-actions" >}})
   - [5.1 Generic Actions]({{< relref "/docs/5-1a-generic-actions" >}})
     - [Explore]({{< relref "/docs/5-1d-explore" >}})
