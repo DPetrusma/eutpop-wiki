@@ -43,4 +43,5 @@ headless: true
     - [Recruit Units]({{< relref "/docs/5-5d-recruit-units" >}})
     - [Suppress Unrest]({{< relref "/docs/5-5e-suppress-unrest" >}})
   - [6. Action Cards]({{< relref "/docs/6-0-action-cards" >}})
+  - [7. Governing a PR]({{< relref "/docs/7-0-governing-a-pr" >}})
 <br />
