@@ -1,8 +1,8 @@
 /* ThePriceOfPowerRegular */
 @font-face {
     font-family: 'wdxphuthepriceofpowerregulaRg';
-    src: url('wdxphuthepriceofpowerregular-webfont.woff2') format('woff2'),
-         url('wdxphuthepriceofpowerregular-webfont.woff') format('woff');
+    src: url('/fonts/wdxphuthepriceofpowerregular-webfont.woff2') format('woff2'),
+         url('/fonts/wdxphuthepriceofpowerregular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
   }
@@ -21,5 +21,5 @@ code {
     background:red;
     border-radius:0;
     font-size:11;
-    */font-family: 'WDXPHU+ThePriceOfPowerRegular', normal;
+    */font-family: 'wdxphuthepriceofpowerregulaRg', normal;
 }

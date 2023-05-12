@@ -14,9 +14,9 @@ Some of the game's core concepts are described here for quick reference.
 
 **Realm:** A Realm consists of all Provinces that have the same flag, Town (`t`), or DNPR token. An Area is considered part of a Realm if it contains any Provinces Owned by that Realm.
 
-	A **Distant Realm** is one whose Capital is on a Distant Continent (see p. 36).
+A **Distant Realm** is one whose Capital is on a Distant Continent (see p. 36).
 	
-	**Occupied Provinces** are neither considered part of the **Occupant**'s Realm nor the **Lawful Owner**'s Realm (see p. 28).
+**Occupied Provinces** are neither considered part of the **Occupant**'s Realm nor the **Lawful Owner**'s Realm (see p. 28).
 	
 **PR:** Each player governs a **Player Realm (PR)**. (See p. 19.)
 
