@@ -44,4 +44,8 @@ headless: true
     - [Suppress Unrest]({{< relref "/docs/5-5e-suppress-unrest" >}})
   - [6. Action Cards]({{< relref "/docs/6-0-action-cards" >}})
   - [7. Governing a PR]({{< relref "/docs/7-0-governing-a-pr" >}})
+  - [8. Ideas]({{< relref "/docs/8-0-ideas" >}})
+  - [9. Warfare]({{< relref "/docs/9-0a-warfare" >}})
+    - [Casus Belli (CB)]({{< relref "/docs/9-0b-casus-belli" >}})
+    - [Military Units, Armies, and Fleets]({{< relref "/docs/9-0c-military-units-armies-and-fleets" >}})	
 <br />
