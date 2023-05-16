@@ -48,4 +48,5 @@ headless: true
   - [9. Warfare]({{< relref "/docs/9-0a-warfare" >}})
     - [Casus Belli (CB)]({{< relref "/docs/9-0b-casus-belli" >}})
     - [Military Units, Armies, and Fleets]({{< relref "/docs/9-0c-military-units-armies-and-fleets" >}})	
+  - [10. Peace Resolution]({{< relref "/docs/10-0-peace-resolution" >}})
 <br />
