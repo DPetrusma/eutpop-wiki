@@ -49,4 +49,6 @@ headless: true
     - [Casus Belli (CB)]({{< relref "/docs/9-0b-casus-belli" >}})
     - [Military Units, Armies, and Fleets]({{< relref "/docs/9-0c-military-units-armies-and-fleets" >}})	
   - [10. Peace Resolution]({{< relref "/docs/10-0-peace-resolution" >}})
+  - [11. Diplomatic Relations]({{< relref "/docs/11-0-diplomatic-relations" >}})
+  - [12. Trade]({{< relref "/docs/12-0-trade" >}})
 <br />
