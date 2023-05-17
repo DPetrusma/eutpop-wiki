@@ -1,0 +1,27 @@
+Find: ([^.:])\r\n
+Replace: \1
+
+Find: \.\r\n
+Replace: .\r\n\r\n
+
+(Match case. Match whole word only)
+Find: ([ (0-9])([Iz<MmsLGKvtJæ,N=D])([ ),])
+Replace: \1`\2`\3
+
+Find: (?<=[0-9])([IMms,])
+Replace: `\1`
+
+Find: “
+Find: ”
+Replace: "
+
+(?<=[0-9])([Iz])
+
+Find: •
+Replace: -
+
+Find: 
+Replace: 
+
+Find: *
+Replace: \*
