@@ -5,7 +5,7 @@ Find: \.\r\n
 Replace: .\r\n\r\n
 
 (Match case. Match whole word only)
-Find: ([ (0-9\/])([Iz<MmsLGKvtJæ,N=D?HuRr\^])([ ),/\.])
+Find: ([ (0-9\/])([Iz<MmsLGKvtJæ,N=D?HuRAQr\^0EC§])([ ),/\.//])
 Replace: \1`\2`\3
 
 Find: (?<=[0-9])([IMms,])
