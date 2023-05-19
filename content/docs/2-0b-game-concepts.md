@@ -108,7 +108,7 @@ Areas ! on the Main Map are separated from other Areas by a white border, and fr
 	
 	Area and Sea Zone names are always written in small caps, e.g., SAXONY, JUTLAND, or BALTIC SEA, etc.
 	
-An Area may contain a number of different **Provinces** belonging to one or more Realms. **Small Provinces** (8) and **Large Provinces** (9) have a **Tax Value** of 1 and 2, respectively. Each Province is depicted as a shield with their Realm's flag. The names of **Capitals** (10) are underlined.
+An Area may contain a number of different **Provinces** belonging to one or more Realms. **Small Provinces** (8) and **Large Provinces** (9) have a **Tax Value** of 1 and 2, respectively. Each Province is depicted as a shield with their Realm's flag. The names of **Capitals** (10) are -underlined-.
 
 	The Provinces of **Vassal Realms** (11)display a small version of their Overlord's flag at the bottom of their own flag.
 	
