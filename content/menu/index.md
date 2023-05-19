@@ -51,4 +51,13 @@ headless: true
   - [10. Peace Resolution]({{< relref "/docs/10-0-peace-resolution" >}})
   - [11. Diplomatic Relations]({{< relref "/docs/11-0-diplomatic-relations" >}})
   - [12. Trade]({{< relref "/docs/12-0-trade" >}})
+  - [13. Non-Player Realms]({{< relref "/docs/13-0-non-player-realms" >}})
+  - [14. Rebels]({{< relref "/docs/14-0-rebels" >}})
+  - [15. Religion and Faith]({{< relref "/docs/15-0-religion-and-faith" >}})
+  - [16. Events]({{< relref "/docs/16-0-events" >}})
+  - [17. Victory and Prestige]({{< relref "/docs/17-0-victory-and-prestige" >}})
+  - [18. The Holy Roman Empire (HRE)]({{< relref "/docs/18-0-the-holy-roman-empire" >}})
+  - [19. The Papal Curia]({{< relref "/docs/19-0-the-papal-curia" >}})
+  - [20. 2 Player Games]({{< relref "/docs/20-0-2-player-games" >}})
+  - [21. PR Elimination]({{< relref "/docs/21-0-pr-elimination" >}})
 <br />
