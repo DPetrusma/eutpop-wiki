@@ -1,8 +1,8 @@
 ---
-title: "2.0 Game Concepts, Important Terms, and the Map Board"
+title: "Game Concepts, Important Terms, and the Map Board"
 ---
 
-# 2.0 Game Concepts
+# Game Concepts
 
 Some of the game's core concepts are described here for quick reference.
 
@@ -52,7 +52,7 @@ A **Distant Realm** is one whose Capital is on a Distant Continent (see p. 36).
 
 **Events**: There is one deck of Event Cards for each Age of the game. These are the Ages of Discovery (I), Reformation (II), Absolutism (III), and Revolutions (IV, Deluxe Ed. / *Fate of Empires* exp. only).
 
-	In each Round a certain number of Events will be played and take effect. The Event deck dictates the flow of time, and it often determines when the game will end. (See p. 39.)
+In each Round a certain number of Events will be played and take effect. The Event deck dictates the flow of time, and it often determines when the game will end. (See p. 39.)
 	
 **Ideas:** Ideas represent improvements in technology that have effects on what you can do in the game. (See p. 21.)
 
@@ -64,15 +64,15 @@ A **Distant Realm** is one whose Capital is on a Distant Continent (see p. 36).
 
 **Papal Curia:** Catholic PRs may compete to control the most **Cardinals (`C`)** in the Papal Curia in order to gain certain bonuses. (See p. 45.)
 
-# 2.0 Important Terms
+## Important Terms
 
 **Adjacency:** A **Province**, **Unit**, or **token** is considered adjacent to the Area in which it is located and all Areas that share a border with that Area. It is also considered adjacent to all Provinces in each of these Areas.
 
-	A Coastal Province (**Port**) is also considered adjacent to all other Ports facing the same Sea Zone(s), to all Areas with such Ports, and to all the Sea Zones it faces.
+A Coastal Province (**Port**) is also considered adjacent to all other Ports facing the same Sea Zone(s), to all Areas with such Ports, and to all the Sea Zones it faces.
 	
-	**Areas/Sea Zones** are considered adjacent to all other Areas and Sea Zones with which they share a border. Coastal Areas with Ports facing the same Sea Zone are adjacent to each other.
+**Areas/Sea Zones** are considered adjacent to all other Areas and Sea Zones with which they share a border. Coastal Areas with Ports facing the same Sea Zone are adjacent to each other.
 	
-	A **Realm** is adjacent to anything that its Provinces are adjacent to. Vassals do not provide adjacency for their Overlord.
+A **Realm** is adjacent to anything that its Provinces are adjacent to. Vassals do not provide adjacency for their Overlord.
 	
 **Own:** When the rules refer to Ownership of Provinces, they mean Provinces on which you have a `t`, and where there is no `v`, `R`, Enemy `t`, or Occupied token on the same Province.
 
@@ -80,11 +80,11 @@ A **Distant Realm** is one whose Capital is on a Distant Continent (see p. 36).
 
 **Friendly, Neutral, and Hostile:** Armies, Units, Provinces, or Ports Controlled by you, your Vassal, or your Ally are referred to as **Friendly**. Friendly Areas are those that contain any Friendly Provinces.
 
-	**Hostile** refers to things Controlled by Rebels (Hostile to all PRs), or by Realms at War with you (including their Vassals and Active Allies). Hostile Realms, and their Units, are also called **Enemies**.
+**Hostile** refers to things Controlled by Rebels (Hostile to all PRs), or by Realms at War with you (including their Vassals and Active Allies). Hostile Realms, and their Units, are also called **Enemies**.
 	
-	An Area containing any Hostile Units or Provinces is considered a Hostile Area (and thus not a Friendly Area). A Sea Zone is considered Hostile if it contains any Hostile Ships, or if it faces Hostile NPR Ports and contains no Ships from Realms at War with the Owner(s) of those Ports.
+An Area containing any Hostile Units or Provinces is considered a Hostile Area (and thus not a Friendly Area). A Sea Zone is considered Hostile if it contains any Hostile Ships, or if it faces Hostile NPR Ports and contains no Ships from Realms at War with the Owner(s) of those Ports.
 	
-	**Neutral** refers to things that are neither Friendly nor Hostile.
+**Neutral** refers to things that are neither Friendly nor Hostile.
 	
 **Opponent:** This term refers to the other players in the game: humans and bots.
 
@@ -92,53 +92,54 @@ A **Distant Realm** is one whose Capital is on a Distant Continent (see p. 36).
 
 **You:** Use of the word "you" in the rules always refers to the Active Player when used in the context of Actions and Events.
 
-# 2.0 The Map Board
+## The Map Board
 
-The map board is the centerpiece of the game, and where the bulk of the action takes place. The large Main Map is divided into Areas ! and Sea Zones ", while the Distant Continents § look a bit different. The Distant Continents Board also holds the Prestige Track $.
+The map board is the centerpiece of the game, and where the bulk of the action takes place. The large **Main Map** is divided into **Areas** (1) and **Sea Zones** (2), while the **Distant Continents** (3) look a bit different. The **Distant Continents Board** also holds the **Prestige Track** (4).
 
-Areas ! on the Main Map are separated from other Areas by a white border, and from Sea Zones by a dark blue coast line.
+**Areas** (1) on the Main Map are separated from other Areas by a white border, and from Sea Zones by a dark blue coast line.
 
-	Mountain borders % are indicated with a pattern of black triangles on them. Some Areas include islands and have their borders shown as blue dashed lines & where they overlap Sea Zones.
+**Mountain borders** (5) are indicated with a pattern of black triangles on them. Some Areas include islands and have their borders shown as blue dashed lines (6) where they overlap Sea Zones.
 	
-	Areas are, amongst other things, where you keep and move your Military Units (see 'Movement', p. 25).
+Areas are, amongst other things, where you keep and move your Military Units (see 'Movement', p. 25).
 	
-	The Religion of an Area is shown on its Religion slot. Some slots apply to more than one Area /. The Religion of an Area may change during the game.
+The Religion of an Area is shown on its **Religion slot**. Some slots apply to more than one Area (7). The Religion of an Area may change during the game.
 	
-	Sea Zones" are sections of oceans and seas which only Ships may occupy. Land Units can only cross Sea Zones using Naval Transport. Galleys can only exist in Sea Zones marked with a * or a †. See more about Naval Movement on p. 25.
+**Sea Zones** (2) are sections of oceans and seas which only Ships may occupy. Land Units can only cross Sea Zones using Naval Transport. Galleys can only exist in Sea Zones marked with a \* or a †. See more about Naval Movement on p. 25.
 	
-	Area and Sea Zone names are always written in small caps, e.g., SAXONY, JUTLAND, or BALTIC SEA, etc.
+Area and Sea Zone names are always written in small caps, e.g., SAXONY, JUTLAND, or BALTIC SEA, etc.
 	
-An Area may contain a number of different **Provinces** belonging to one or more Realms. **Small Provinces** (8) and **Large Provinces** (9) have a **Tax Value** of 1 and 2, respectively. Each Province is depicted as a shield with their Realm's flag. The names of **Capitals** (10) are underlined.
+An Area may contain a number of different **Provinces** belonging to one or more Realms. **Small Provinces** (8) and **Large Provinces** (9) have a **Tax Value** of 1 and 2, respectively. Each Province is depicted as a shield with their Realm's flag. The names of **Capitals** (10) are -underlined-.
 
-	The Provinces of **Vassal Realms** (11)display a small version of their Overlord's flag at the bottom of their own flag.
+The Provinces of **Vassal Realms** (11) display a small version of their Overlord's flag at the bottom of their own flag.
+
+Coastal Provinces are referred to as Ports (12). Ports also act as spaces that can be entered by Friendly Ships. Large Ports count as 2 Ports for all purposes.
 	
-	Coastal Provinces are referred to as Ports (12). Ports also act as spaces that can be entered by Friendly Ships. Large Ports count as 2 Ports for all purposes.
+**Island Provinces** (13) have blue Port symbols and can only be Sieged if you have any Ships in an adjacent Sea Zone.
 	
-	**Island Provinces** (13) have blue Port symbols and can only be Sieged if you have any Ships in an adjacent Sea Zone.
-	
-	The Provinces of the Major Powers(listed in the scenario booklets) in the game have golden frames and flags in saturated colors, while the remaining Realms have paler flags in silver frames.
+The Provinces of the Major Powers (listed in the scenario booklets) in the game have golden frames and flags in saturated colors, while the remaining Realms have paler flags in silver frames.
 	
 Most Sea Zones are adjacent to 1–2 **Maritime Trade Nodes** (14) and contain 2–3 **Trade Protection slots** (15). Areas may contain **Inland Trade Nodes** (16). **Gold Provinces** (17) marked with a Gold icon interact with certain Events, as well as appearing on Gold Trade Cards. (See more under 'Trade' on p. 34.)
 
 The **Distant Continents** (3) are shown in separate boxes, in a smaller scale than the Main Map board.
 
-	Provinces on the Distant Continents are called **Distant Provinces** (18); each of these is also a separate Area, connected to adjacent Areas by white lines.
+Provinces on the Distant Continents are called **Distant Provinces** (18); each of these is also a separate Area, connected to adjacent Areas by white lines.
 	
-	Some sparsely populated Areas on the Distant Continents contain no Province. These Areas instead show a circled number, and are called **Territories** (19). Territories can be Colonized (see p. 14).
+Some sparsely populated Areas on the Distant Continents contain no Province. These Areas instead show a circled number, and are called **Territories** (19). Territories can be Colonized (see p. 14).
 
-	Coastal Provinces also have Ports on the Distant Continents but a number of these are grayed out and designated as **Inactive Ports** (20) until populated by a `t`/`v`/`æ`.
+Coastal Provinces also have Ports on the Distant Continents but a number of these are grayed out and designated as **Inactive Ports** (20) until populated by a `t`/`v`/`æ`.
 	
-	All Sea Zones on Distant Continents are connected via matching letters (21) to one or more Sea Zones on the Main Map or on other Distant Continents.
+All Sea Zones on Distant Continents are connected via matching letters (21) to one or more Sea Zones on the Main Map or on other Distant Continents.
 	
-	Overland connections (22) to other maps all name the Area to which they connect.
+Overland connections (22) to other maps all name the Area to which they connect.
 	
-	The Areas/Sea Zones on either side of such a connection are considered adjacent.
+The Areas/Sea Zones on either side of such a connection are considered adjacent.
 	
-	On the left edge of the Western Europe Board lies the **Colonist Pool** (23), used for placing Colonists (`<`).
+On the left edge of the Western Europe Board lies the **Colonist Pool** (23), used for placing Colonists (`<`).
 	
-	In the heart of Europe lies the Holy Roman Empire (HRE), with its numerous member states. What lies on the yellow side of the dotted **HRE border** (24) is inside of the HRE; what lies on the red side of the border is outside of it. Some Areas within the HRE are designated as **Elector Areas** (25) and are marked with Imperial eagles.
+In the heart of Europe lies the Holy Roman Empire (HRE), with its numerous member states. What lies on the yellow side of the dotted **HRE border** (24) is inside of the HRE; what lies on the red side of the border is outside of it. Some Areas within the HRE are designated as **Elector Areas** (25) and are marked with Imperial eagles.
 	
 ## Map Oddities
+
 - The unnamed "Areas" on the bottom edge of the Main Map are impassable deserts (26). 
 - The EAST AFRICAN COAST (27) Sea Zone is adjacent to the Indian Ocean `N`.
 - Adal and Upper Egypt (18), on the AFRICA map, are facing the INDIAN OCEAN Sea Zone on the INDIA & ARABIA map.

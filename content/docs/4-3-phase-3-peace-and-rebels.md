@@ -16,7 +16,7 @@ If an NPR which is not an Active Ally is at War with any PR(s), and none of the 
 
 ## C. Rebels Siege or Move
 
-Perform this step if there are any Rebel Units (`?`) on the board. Resolve Areas in order of most `?`to fewest ? (break ties alphabetically).
+Perform this step if there are any Rebel Units (`?`) on the board. Resolve Areas in order of most `?`to fewest `?` (break ties alphabetically).
 - **For Areas with both`?`and`u`:** The `?` in each such Area now Siege any `t`/`v` with `u` that they can. Each `?`has a Siege Strength of 1 (see p. 37). The `?` will Siege Large Provinces first when possible (otherwise pick alphabetically).
 	- **Core Provinces:** Place a Rebel Town (`R`) on top of the Owner's `t`, and cover the rightmost vacant slot on their Town Track with a `z`.
 	- **Non-Core Provinces are Liberated** (see p. 37): Owners must return `t`/`v` to their Player Mat and place a CB token on the new Province Owner.
@@ -41,7 +41,7 @@ This step only occurs if there are any ongoing Wars, and all Wars are then resol
 - **Disputed Succession:** Flip over all `M` that still display their `L` side. Each player loses `3` for each of their `M` getting flipped. A player may avoid this penalty if they are the only PR to have an `A` on the Realm with the `L` on it, and also have the most `I` (min. 2`I`) in that Realm if it is an NPR.
 - **Occupied Towns:** Players who now have `t` that are Occupied by Enemies or Rebels lose `0` equal to their Tax Value (max. 5).
 
-## F.Interregnum
+## F. Interregnum
 
 Players with an Interregnum (no Ruler) lose 1`s`, and must flip `M` on their Realm to reveal the `L` side.
 
