@@ -14,7 +14,7 @@ Set your game up by following the instructions in chapter 3 and your chosen scen
 
 ## 2.1 Winning the Game
 
-The winner will be the player who finishes the game with the most Prestige (`0`). There are many potential paths to victory and you will score Prestige in different ways (see p. 42), depending on how you focus your efforts.
+The winner will be the player who finishes the game with the most [Prestige](/docs/17-0-victory-and-prestige/#171-the-prestige-track) (`0`). There are many potential paths to victory and you will score Prestige in different ways (see p. 42), depending on how you focus your efforts.
 
 ### Scoring Prestige during the game
 
