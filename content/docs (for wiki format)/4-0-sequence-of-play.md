@@ -8,10 +8,10 @@ The game is divided into Ages, each of which consists of 4 Rounds. Each Round is
 
 === 1. Draw Cards Phase ===
 
-* '''A''' Reveal Events
-* '''B''' Draw Action Cards
-* '''C''' Pay to keep Action Cards
-* '''D''' Pick/Replace Missions
+* '''A.''' Reveal Events
+* '''B.''' Draw Action Cards
+* '''C.''' Pay to keep Action Cards
+* '''D.''' Pick/Replace Missions
 
 === 2. Action Phase ===
 

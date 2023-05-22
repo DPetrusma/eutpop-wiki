@@ -2,7 +2,7 @@
 title: "4.3 Phase 3: Peace & Rebels"
 ---
 
-# 4.3 Phase 3: Peace & Rebels
+== 4.3 Phase 3: Peace & Rebels
 
 Once all players have Passed, the Peace & Rebels Phase begins. Follow the steps below, in sequence:
 

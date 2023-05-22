@@ -2,7 +2,7 @@
 title: "4.6 End of Age Routine"
 ---
 
-# 4.6 End of Age Routine
+== 4.6 End of Age Routine
 
 When all players have completed Phase 5, and there are no more Events left in the deck for the current Age, perform the following steps in order:
 # Prepare and place the '''Event Deck''' for the next Age.

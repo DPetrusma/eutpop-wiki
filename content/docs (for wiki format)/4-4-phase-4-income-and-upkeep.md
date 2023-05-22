@@ -2,7 +2,7 @@
 title: "4.4 Phase 4: Income & Upkeep"
 ---
 
-# 4.4 Phase 4: Income & Upkeep
+== 4.4 Phase 4: Income & Upkeep
 
 In this phase, players pay Costs, collect Tax Income and <code>d</code>, and score <code>0</code>. All players perform this Phase simultaneously.
 

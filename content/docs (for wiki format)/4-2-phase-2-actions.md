@@ -2,7 +2,7 @@
 title: "4.2 Phase 2: Actions"
 ---
 
-# 4.2 Phase 2: Actions
+== 4.2 Phase 2: Actions
 
 In this phase players take Turns in clockwise order, starting with the player who has the First Player token (normally the first player to Pass in the previous Round). The scenario setup will identify the starting First Player.
 

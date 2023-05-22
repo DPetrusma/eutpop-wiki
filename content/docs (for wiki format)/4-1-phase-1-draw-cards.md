@@ -2,7 +2,7 @@
 title: "4.1 Phase 1: Draw Cards"
 ---
 
-# 4.1 Phase 1: Draw Cards
+== 4.1 Phase 1: Draw Cards
 
 === A. Reveal Events ===
 

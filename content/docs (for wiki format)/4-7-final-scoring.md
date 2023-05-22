@@ -2,7 +2,7 @@
 title: "4.7 Final Scoring"
 ---
 
-# 4.7 Final Scoring
+== 4.7 Final Scoring
 
 Final Scoring is initiated at the end of the final Round. Unless otherwise specified in the scenario's Victory Conditions, this happens after completing Phase 5, when any of these three conditions apply:
 * There are no more Event Cards remaining in the decks for the chosen scenario at the end of a Round.
